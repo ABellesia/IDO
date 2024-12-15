@@ -145,17 +145,18 @@ Mientras la temperatura sea mayor que un umbral:
 ### Visualización
 #### Qatar 
 ##### 2 - Opt 
-![image](https://github.com/user-attachments/assets/c3cb8e83-5481-4af0-b391-2506864cb04d)
+![image](https://github.com/user-attachments/assets/6fac6408-6da8-436f-bb5c-f9a86b40909d)
 
 #####  Búsqueda Tabú
-![image](https://github.com/user-attachments/assets/69668adf-adf7-424e-9e2e-6394371ca7f0)
+![image](https://github.com/user-attachments/assets/6b4615b1-e084-4927-9fa7-6e402ad6e4d1)
 
 ##### Recocido Simulado 
-![image](https://github.com/user-attachments/assets/1c470c45-6044-477c-a170-df1623a5dc56)
+![image](https://github.com/user-attachments/assets/0c9b1700-c03c-4964-bef6-2563d4980951)
 
 #### Uruguay 
 ##### 2 - Opt 
-![image](https://github.com/user-attachments/assets/fe613d02-10e6-4508-bbb3-ddc825f381e6)
+![image](https://github.com/user-attachments/assets/8df0d115-0828-46a4-a33b-e77dec59d6fc)
+
 
 #####  Búsqueda Tabú
 ![image](https://github.com/user-attachments/assets/c83a20a7-d7a0-4bba-a561-0ea5e0a78464)

@@ -143,7 +143,16 @@ Mientras la temperatura sea mayor que un umbral:
 | Recocido Simulado | XXX | XXX |
 
 ### Visualización
-Se generaron gráficos para comparar visualmente las rutas optimizadas de cada método.
+#### Qatar 
+##### 2 - Opt 
+![image](https://github.com/user-attachments/assets/c3cb8e83-5481-4af0-b391-2506864cb04d)
+
+#####  Búsqueda Tabú
+![image](https://github.com/user-attachments/assets/69668adf-adf7-424e-9e2e-6394371ca7f0)
+
+##### Recocido Simulado 
+![image](https://github.com/user-attachments/assets/1c470c45-6044-477c-a170-df1623a5dc56)
+
 
 --- 
 
@@ -155,3 +164,4 @@ El código implementado está disponible en [este repositorio](https://github.co
 1. Gutin, G., & Punnen, A. P. (Eds.). (2006). The Traveling Salesman Problem and Its Variations. Springer.
 2. Kirkpatrick, S., Gelatt, C. D., & Vecchi, M. P. (1983). Optimization by Simulated Annealing. Science, 220(4598), 671-680.
 3. Johnson, D. S., & McGeoch, L. A. (1997). The Traveling Salesman Problem: A Case Study in Local Optimization. Handbook of Approximation Algorithms and Metaheuristics. Chapman & Hall/CRC.
+

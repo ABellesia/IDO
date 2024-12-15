@@ -122,9 +122,9 @@ Mientras la temperatura sea mayor que un umbral:
 
 | Método | Distancia optimizada | Tiempo de ejecución (s) |
 | --- | --- | --- |
-| 2 - Opt | XXX | XXX |
-| Búsqueda Tabú | XXX | XXX |
-| Recocido Simulado | XXX | XXX |
+| 2 - Opt | 9888.9656 | 7.5813 |
+| Búsqueda Tabú | 9849.3167 | 100.9934 |
+| Recocido Simulado | 11892.8881 | 0.064 |
 
 #### Uruguay
 

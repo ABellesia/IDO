@@ -138,9 +138,9 @@ Mientras la temperatura sea mayor que un umbral:
 
 | Método | Distancia optimizada | Tiempo de ejecución (s) |
 | --- | --- | --- |
-| 2 - Opt | XXX | XXX |
-| Búsqueda Tabú | XXX | XXX |
-| Recocido Simulado | XXX | XXX |
+| 2 - Opt | 101275.8262 | 875.1326 |
+| Búsqueda Tabú | 109721.6204 | 2860.6460 |
+| Recocido Simulado | 117733.6962 | 42.8826 |
 
 ### Visualización
 #### Qatar 
@@ -165,13 +165,13 @@ Mientras la temperatura sea mayor que un umbral:
 #### Zimbabwe
 
 ##### 2 - Opt 
-
+![image](https://github.com/user-attachments/assets/72b7d45c-deba-457c-b04c-be26185aef08)
 
 #####  Búsqueda Tabú
-
+![image](https://github.com/user-attachments/assets/b427c48c-7d4e-47c6-a998-552c0bc396c6)
 
 ##### Recocido Simulado 
-
+![image](https://github.com/user-attachments/assets/7e75ee5b-0c5c-402e-a453-d5877bd7e936)
 
 --- 
 

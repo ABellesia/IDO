@@ -130,9 +130,9 @@ Mientras la temperatura sea mayor que un umbral:
 
 | Método | Distancia optimizada | Tiempo de ejecución (s) |
 | --- | --- | --- |
-| 2 - Opt | XXX | XXX |
-| Búsqueda Tabú | XXX | XXX |
-| Recocido Simulado | XXX | XXX |
+| 2 - Opt | 86443.4075 | 636.6143 |
+| Búsqueda Tabú | 94477.9846 | 1080.9167 |
+| Recocido Simulado | 102594.3579 | 0.0030 |
 
 #### Zimbabwe
 
@@ -158,9 +158,11 @@ Mientras la temperatura sea mayor que un umbral:
 ![image](https://github.com/user-attachments/assets/fe613d02-10e6-4508-bbb3-ddc825f381e6)
 
 #####  Búsqueda Tabú
+![image](https://github.com/user-attachments/assets/c83a20a7-d7a0-4bba-a561-0ea5e0a78464)
 
 
 ##### Recocido Simulado 
+![image](https://github.com/user-attachments/assets/f31a1672-1d4b-4584-81af-7b763eed8a48)
 
 #### Zimbabwe
 

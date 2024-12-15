@@ -107,6 +107,14 @@ Mientras la temperatura sea mayor que un umbral:
     Si mejora o cumple el criterio probabilístico, actualizar solución.
     Reducir la temperatura.
 ```
+
+### 5. Comparación general entre métodos 
+| Método | Ventajas |	Desventajas |	Escenarios ideales |
+| --- | --- | --- | --- |
+| Vecino Más Cercano	| Simplicidad, rapidez	| Calidad subóptima, miopía |	Generación rápida de soluciones iniciales. |
+| 2-Opt |	Mejora significativa de soluciones iniciales	| Puede estancarse en mínimos locales	 | Problemas pequeños a medianos. |
+| Búsqueda Tabú |	Escapa de mínimos locales, flexible |	Costo computacional y parametrización compleja	| Problemas grandes con muchos mínimos locales. |
+| Recocido Simulado	| Explora soluciones globales, adaptable |	Dependencia de parámetros, costo computacional |	Problemas medianos a grandes. |
 --- 
 ## Resultados 
 ### Tablas comparativas de métodos 

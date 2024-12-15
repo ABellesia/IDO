@@ -153,6 +153,25 @@ Mientras la temperatura sea mayor que un umbral:
 ##### Recocido Simulado 
 ![image](https://github.com/user-attachments/assets/1c470c45-6044-477c-a170-df1623a5dc56)
 
+#### Uruguay 
+##### 2 - Opt 
+![image](https://github.com/user-attachments/assets/fe613d02-10e6-4508-bbb3-ddc825f381e6)
+
+#####  Búsqueda Tabú
+
+
+##### Recocido Simulado 
+
+#### Zimbabwe
+
+##### 2 - Opt 
+
+
+#####  Búsqueda Tabú
+
+
+##### Recocido Simulado 
+
 
 --- 
 
